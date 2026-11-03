@@ -1,3 +1,4 @@
+
 # Comandos de terminal y Git
 
 ## Comandos de terminal
@@ -20,3 +21,5 @@
 | `git push` | Sube los cambios a GitHub. |
 | `git pull` | Descarga cambios de GitHub. |
 | `git clone` | Clona un repositorio. |
+
+
